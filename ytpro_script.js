@@ -1,6 +1,6 @@
 /*****YTPRO*******
 Author: PowerTech
-Version: 4.2.0
+Version: 9.9.0
 URI: https://github.com/
 Last Updated On: 25 Oct, 2026, 11:52 UTC
 */
@@ -737,7 +737,7 @@ ytpSetI.innerHTML+=`<br><b style='font-size:18px' >YT PRO Settings</b>
 <br><br>
 <div data-action="follow" style="min-height:35px;height:auto;width:95%;margin:auto;background:#ee2a7b44;border-radius:30px;margin-bottom:15px;border:1px solid #ee2a7b;display:flex;padding:5px;gap:8px;">
 
-<img style="flex-shrink: 0;height:40px;width:40px;border-radius:50%;" src="https://raw.githubusercontent.com/leeapk/YTPlus/refs/heads/main/.github/img/habitius.webp" >
+<img style="flex-shrink: 0;height:40px;width:40px;border-radius:50%;" src="https://github.com/PowerTech0417/MS/refs/heads/main/habitius.webp" >
 <div style="display:flex;flex-direction:column;align-items:flex-start;height:100%;width:auto;flex-shrink:0;font-size:14px;background:re;padding:0;"><b>Join PowerTech Channel</b>For daily apps and update </div>
 
 <svg xmlns="http://www.w3.org/2000/svg" width="16" height="16" fill="${isD ? "#ccc" : "#444"}" viewBox="0 0 16 16">
