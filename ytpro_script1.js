@@ -1,7 +1,7 @@
 /*****YTPRO*******
 Author: PowerTech
-Version: 4.2.0
-URI: https://github.com/YTP
+Version: 9.9.0
+URI: https://powertech.com/YTP
 Last Updated On: 25 Oct, 2026, 11:52 UTC
 */
 
